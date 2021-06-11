@@ -12,7 +12,7 @@ Using both Pandas and Matplotlib, figures were created to illustrate:
     
 Additional figures portray:
 
-    Inter-Quartile Range of final tumor volume among drug reginmens Capomulin, Ramicane, Infubinol, and Ceftamin determining outliers (box-and-whisker plot)
+    Inter-Quartile Range of final tumor volume among drug regimens of interest, determining outliers (box-and-whisker plot)
     Tumor volume change over time for a selected mouse within the Capomulin treatment regimen (line plot)
     Average tumor volume related to mouse weight within the Capomulin regimen (scatter plot)
         This final plot also includes correlation and linear regression analysis
